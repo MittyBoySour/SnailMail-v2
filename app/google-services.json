@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1085825832715",
+    "firebase_url": "https://snailmailv2-65025.firebaseio.com",
+    "project_id": "snailmailv2-65025",
+    "storage_bucket": "snailmailv2-65025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085825832715:android:ca691f785bc65987",
+        "android_client_info": {
+          "package_name": "com.mad.snailmail_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085825832715-e5jn7giqd8p0qrobepgb256k5imvnre9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.snailmail_v2",
+            "certificate_hash": "e2eb1facde9c47379edccf4a9254dee7950f9926"
+          }
+        },
+        {
+          "client_id": "1085825832715-a6nl1mveds4sv91p3j3uo11hdh6ob7b6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1085825832715-a6nl1mveds4sv91p3j3uo11hdh6ob7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbadEFHcC9b_JV_KzjnfqREXXvW6OdWn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085825832715-a6nl1mveds4sv91p3j3uo11hdh6ob7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
